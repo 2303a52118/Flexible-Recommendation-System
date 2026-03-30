@@ -5,7 +5,7 @@ A dynamic and customizable Recommendation System built using Python, Pandas, Sci
 
 This system allows users to upload any dataset and automatically create recommendations using Collaborative Filtering.
 
-🎯 Key Highlights
+🎯 Key Highlights                                                                                                                        
 🔄 Works with ANY dataset (Movies, Products, etc.)                                                                                              
 🧠 Uses User-Based Collaborative Filtering                                                                                                                        
 ⚡ Built with interactive UI using Streamlit                                                                                                                     
