@@ -47,14 +47,6 @@ Flexible-Recommendation-System/
 │── README.md            # Documentation
 
 
-▶️ Installation
-git clone https://github.com/your-username/Flexible-Recommendation-System.git
-cd Flexible-Recommendation-System
-pip install -r requirements.txt
-
-▶️ Run the Application
-streamlit run app.py
-
 
 📊 Example Dataset Format
 user_id	    product_id	rating
