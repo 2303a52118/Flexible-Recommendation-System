@@ -2,15 +2,15 @@ import streamlit as st
 import pandas as pd
 from sklearn.metrics.pairwise import cosine_similarity
 
-st.title("🚀 Flexible Recommendation System")
+st.title(" Flexible Recommendation System")
 
-st.info("👉 Select 3 DIFFERENT columns: User, Item, and Rating")
+st.info(" Select 3 DIFFERENT columns: User, Item, and Rating")
 
 file = st.file_uploader("Upload CSV", type=["csv"])
 
 if file:
     try:
-        # ✅ Read CSV (auto handle MovieLens too)
+        # Read CSV (auto handle MovieLens too)
         df = pd.read_csv(file)
 
         if len(df.columns) == 1:
