@@ -48,12 +48,8 @@ Flexible-Recommendation-System/
 
 
 
-📊 Example Dataset Format
-user_id	    product_id	rating
-  1	         101        	5
-  1	         102	        4
-  2	         101	        4
-  2	         103	        5
+<img width="985" height="401" alt="image" src="https://github.com/user-attachments/assets/95d66f90-e00f-4e70-bb9d-14e856eb6d3a" />
+
 🎯 Features
 ✅ Personalized Recommendations
 
