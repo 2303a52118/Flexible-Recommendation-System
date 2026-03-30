@@ -6,21 +6,21 @@ A dynamic and customizable Recommendation System built using Python, Pandas, Sci
 This system allows users to upload any dataset and automatically create recommendations using Collaborative Filtering.
 
 🎯 Key Highlights
-🔄 Works with ANY dataset (Movies, Products, etc.)
-🧠 Uses User-Based Collaborative Filtering
-⚡ Built with interactive UI using Streamlit
-📊 Automatically detects:
-User column
-Item column
-Rating column
+🔄 Works with ANY dataset (Movies, Products, etc.)                                                                                              
+🧠 Uses User-Based Collaborative Filtering                                                                                                                        
+⚡ Built with interactive UI using Streamlit                                                                                                                     
+📊 Automatically detects:                                                                                                                                   
+User column                                                                                                                                                        
+Item column                                                                                                                                                    
+Rating column                                                                                                                                               
 🛠 Handles missing and inconsistent data
 🔁 Falls back to popular recommendations if no personalized results
 🧠 How It Works
-1. Data Processing
+1. Data Processing                                                                                                                                             
 Upload CSV dataset
 Automatically detects relevant columns
 Cleans and preprocesses data
-2. User-Item Matrix
+2. User-Item Matrix                                                                                                                            
 Converts dataset into a matrix of users vs items
 3. Similarity Calculation
 Uses Cosine Similarity to find similar users
